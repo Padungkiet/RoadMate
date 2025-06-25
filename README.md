@@ -1,6 +1,4 @@
-markdown
-CopyEdit
-# EduSync - ทีม RoadMate
+ทีม RoadMate
 
 ## 👥 Team Members
 - 66025751 - ผดุงเกียรติ  กันแก้ว(Product Owner)
