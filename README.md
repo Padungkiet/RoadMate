@@ -15,5 +15,5 @@
 **Our product :** ใช้ข้อมูลการขับขี่และการท่องเที่ยวเพื่อวางแผนและดูแลรถอย่างมีประสิทธิภาพ พร้อม Chat BOT ตอบคำถาม
 
 ## 🔗 Repository Structure
-- /docs – project vision & planning docs  
-- /src – project source code  
+- docs – project vision & planning docs  
+- src – project source code  
