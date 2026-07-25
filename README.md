@@ -2,7 +2,7 @@
 
 ## 👥 Team Members
 - 66025751 - ผดุงเกียรติ กันแก้ว (Product Owner)  
-- 66025762 - พจนสืทธิ์ เสกสันติสกุล (Product Manager)  
+- 66025762 - พจนสืทธิ์ เสกสันติสกุล (Project Manager)  
 - 66020701 - ดนุพร ชาติเผือก (Dev Lead)
 
 ## 🎯 Product Vision Statement
